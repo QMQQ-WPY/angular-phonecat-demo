@@ -1,0 +1,27 @@
+{
+  "name": "angular-phonecat-demo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "wangpeiyu@meituan.com <wangpeiyu@meituan.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/QMQQ-WPY/angular-phonecat-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "angular": "1.3.x",
+    "angular-animate": "1.3.x",
+    "angular-mocks": "1.3.x",
+    "angular-resource": "1.3.x",
+    "angular-route": "1.3.x",
+    "bootstrap": "3.3.x",
+    "jquery": "2.2.x"
+  }
+}
